@@ -1,0 +1,17 @@
+*.iml
+.idea
+.project
+.settings
+target
+out
+videos
+slides
+.classpath
+*.log
+*.odt
+*.mp4
+*.pdf
+*.txt
+*.vtt
+*.dat
+*.csv
